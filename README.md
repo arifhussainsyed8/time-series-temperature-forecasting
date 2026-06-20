@@ -90,35 +90,3 @@ time-series-temperature-forecasting/
 │   └── model_comparison.png
 │
 └── README.md
-```
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/time-series-temperature-forecasting.git
-cd time-series-temperature-forecasting
-```
-
-### Install Dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn statsmodels tensorflow
-```
-
-### Run the Notebook
-
-```bash
-jupyter notebook Time_Series_Forecasting.ipynb
-```
-
-## 👤 Author
-
-**Arif Hussain Syed**
-
-Master's Student in Data Analytics
-
-## 📄 License
-
-This project is licensed under the MIT License.
