@@ -75,18 +75,15 @@ The following forecasting models were trained and evaluated:
 ## 📂 Project Structure
 
 ```text
-time-series-temperature-forecasting/
+Time-Series-Temperature-Forecasting/
+│
+├──Time-Series-Forecasting-Presantation.pdf        #Presentation
+│
+├──Time-Series-Forecasting-Project.pdf             #PDF
 │
 ├── data/
 │   └── daily-minimum-temperatures.csv
 │
-├── notebooks/
+├── Google Colab/
 │   └── Time_Series_Forecasting.ipynb
-│
-├── images/
-│   ├── seasonal_decomposition.png
-│   ├── heatmap.png
-│   ├── correlation_matrix.png
-│   └── model_comparison.png
-│
 └── README.md
